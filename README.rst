@@ -1,4 +1,9 @@
-heatmap with hierarchical clustering (cluster_heatmaap.R)
-=========================================================
+heatmap with hierarchical clustering
+====================================
 
 .. image:: img/cluster_heatmap.png
+
+wordcloud with text mining
+===========================
+
+.. image:: img/word_cloud.png
