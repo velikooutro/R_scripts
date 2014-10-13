@@ -8,6 +8,6 @@ wordcloud after text mining
 
 .. image:: img/word_cloud.png
 
-scatterplot matrix
-===========================
+exploratory data analysis using scatterplot matrix
+==================================================
 .. image:: img/scatterplotmatrix.png
