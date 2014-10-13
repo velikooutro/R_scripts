@@ -3,7 +3,7 @@ heatmap with hierarchical clustering
 
 .. image:: img/cluster_heatmap.png
 
-wordcloud with text mining
+wordcloud after text mining
 ===========================
 
 .. image:: img/word_cloud.png
